@@ -1,3 +1,3 @@
 # Проектная работа Mesto
 
-студент, когорта, стэк
+https://vitaliyvoroshilov.github.io/frontend-developer-canonicals-mesto-step0-template/
